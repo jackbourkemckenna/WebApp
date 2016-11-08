@@ -1,6 +1,6 @@
 git push
 Another one
 And Another one
-and
+and mayjor
 and
 Jack
