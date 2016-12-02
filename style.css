@@ -1,0 +1,11 @@
+.navbar-header{
+  margin-right:5px;
+  width:100%;
+}
+.mycontent-left {
+  border-right: 1px dashed #333;
+}
+.header_info{
+  
+  background-color: lightgray;
+}
